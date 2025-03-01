@@ -1,2 +1,3 @@
 # problem-solving-with-cpp
-A repository for my progress in problem solving
+### A repository for my progress in problem solving
+#### Note: 1 commit == 1 problem    (except this README.md modification commit)
