@@ -12,3 +12,6 @@
 *.lastbuildstate
 *.exe
 *.vs
+*.Build
+*.tlog
+*.vcxproj.FileListAbsolute.txt
